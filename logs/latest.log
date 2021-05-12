@@ -1,0 +1,16 @@
+[00:03:16] [Netty Client IO #3/INFO] [FML]: Attempting connection with missing mods [tlauncher_custom_cape_skin] at SERVER
+[00:03:21] [Client thread/INFO] [net.minecraft.client.multiplayer.GuiConnecting]: Connecting to hellcord.ru, 25565
+[00:03:22] [Netty Client IO #4/INFO] [FML]: Server protocol version 2
+[00:03:22] [Netty Client IO #4/INFO] [FML]: Attempting connection with missing mods [tlauncher_custom_cape_skin] at SERVER
+[00:03:22] [Client thread/INFO] [FML]: Injecting existing registry data into this client instance
+[00:03:23] [Client thread/INFO] [FML]: Applying holder lookups
+[00:03:23] [Client thread/INFO] [FML]: Holder lookups applied
+[00:03:23] [Netty Client IO #4/INFO] [FML]: [Netty Client IO #4] Client side modded connection established
+[00:03:24] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Slurgel присоединился к игре
+[00:03:24] [Client thread/WARN] [journeymap]: core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[00:03:24] [Client thread/INFO] [journeymap]: Loaded 0 waypoints from /Users/vic/Library/Application Support/minecraft/versions/HellCord 1.12.2/journeymap/data/mp/~Minecraft/waypoints
+[00:03:24] [Client thread/INFO] [journeymap]: Mapping started in /Users/vic/Library/Application Support/minecraft/versions/HellCord 1.12.2/journeymap/data/mp/~Minecraft/DIM0. Memory: 2272MB total, 1532MB free 
+[00:03:41] [Client thread/INFO] [journeymap]: Mapping halted in /Users/vic/Library/Application Support/minecraft/versions/HellCord 1.12.2/journeymap/data/mp/~Minecraft/DIM0
+[00:03:42] [Client thread/INFO] [FML]: Applying holder lookups
+[00:03:42] [Client thread/INFO] [FML]: Holder lookups applied
+[00:03:44] [Netty Client IO #5/INFO] [FML]: Attempting connection with missing mods [tlauncher_custom_cape_skin] at SERVER
