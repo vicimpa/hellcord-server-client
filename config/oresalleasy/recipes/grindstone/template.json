@@ -1,0 +1,15 @@
+{
+  "input": "minecraft:stone:0",
+  "turns": 8,
+  "result": {
+    "output": "minecraft:cobblestone",
+    "optional1": {
+      "output": "oresalleasy:dust_stone",
+      "chance": 100
+    },
+    "optional2": {
+      "output": "oresalleasy:dust_stone",
+      "chance": 25
+    }
+  }
+}

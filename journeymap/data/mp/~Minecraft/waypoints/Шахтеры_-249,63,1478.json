@@ -1,0 +1,18 @@
+{
+  "id": "Шахтеры_-249,63,1478",
+  "name": "Шахтеры",
+  "icon": "waypoint-normal.png",
+  "x": -249,
+  "y": 63,
+  "z": 1478,
+  "r": 232,
+  "g": 57,
+  "b": 245,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}
